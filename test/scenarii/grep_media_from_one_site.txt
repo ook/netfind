@@ -1,0 +1,2 @@
+Story: fetching every jpg images from an URL
+
